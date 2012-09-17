@@ -131,3 +131,16 @@ body {
 .pad.active {
     opacity: 1;   
 }
+p {
+ text-align:center;
+	margin:0px;
+}
+p>a {
+	text-decoration:none;
+	color:black;
+	margin:0px;
+	padding:0px;
+}
+p>a:hover {
+	color: #333;
+}
